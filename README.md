@@ -17,4 +17,4 @@ This project highlights my ability to act as a **Product Architect** and **Promp
 - Deployment: [WordPress / Custom CMS]
 
 ### 💡 Live Impact
-This tool is currently live and actively helping users to [right ...].
+This tool is currently live and actively helping users to [ইউজাররা কী সুবিধা পাচ্ছে তা লিখুন].
