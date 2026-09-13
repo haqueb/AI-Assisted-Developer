@@ -1,4 +1,5 @@
 # Custom Web Tool Name (1)
+AI-Assisted Development: Developed 100+ functional web tools by leveraging advanced Prompt Engineering with ChatGPT, Claude, and Gemini. I specialize in designing the architecture, guiding AI to generate the code, debugging the logic, and deploying the final products to live production environments for real users.
 
 A dynamic and interactive web tool designed to [টুলটি কী প্রবলেম সলভ করে তা এক লাইনে লিখুন]। This tool is currently deployed in a production environment and used by real users on live websites.
 
